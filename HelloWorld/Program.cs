@@ -11,7 +11,8 @@ namespace HelloWorld
     {
             
         Console.WriteLine("Hello, World!");
-        Console.WriteLine("Nazywam się Sylwia Perlik");
+        Console.WriteLine("Nazywam się Sylwia ");
+            Console.WriteLine("Cześć Sylwia");
     }
 }
 
